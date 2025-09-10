@@ -7,6 +7,5 @@ This repository collects hands-on projects for Exploratory Data Analysis (EDA) a
 Each folder contains a single practical exercise (data cleaning, visualization, feature creation, modeling prep) with:
 - A well-documented Jupyter Notebook (`.ipynb`)
 - Required small sample datasets (or links to download)
-- Notes about decisions, assumptions and next steps
-
-## Repository Structure
+- Notes about decisions, assumptions 
+ 
